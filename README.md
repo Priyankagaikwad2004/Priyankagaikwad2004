@@ -1,25 +1,26 @@
- 👋 Hi there, I'm Priyanka Gaikwad!
+# 👋 Hi there, I'm Priyanka Gaikwad!
 
-I’m a passionate and curious learner, currently diving deep into **Web Development** and **Data Structures & Algorithms**. I love building projects that solve real-world problems and improve user experiences.
-
----
-
-- 👀 I’m interested in **Full Stack Development**, **Open Source**, and **Tech for Good**.
-- 🌱 I’m currently learning **React.js**, **Node.js**, and sharpening my **DSA skills**.
-- 💞️ I’m looking to collaborate on exciting **web development projects**, **hackathons**, or **open source contributions**.
-- 📫 How to reach me:  
-  [LinkedIn](https://www.linkedin.com/in/gaikwad-priyanka/) 
-- 😄 Pronouns: She/Her
-- ⚡ Fun fact: I turn boring syllabus into **thrilling story-based learning games** to stay motivated 🎮✨
+I'm a passionate and curious learner, currently diving deep into **Web Development** and **Data Structures & Algorithms**. I love building meaningful projects that solve real-world problems and improve user experiences.
 
 ---
 
-> 💬 “Code is poetry. Every bug fixed is a story told better.”
+### 💡 About Me
 
-Thanks for stopping by! 😊  
-Feel free to connect or collaborate!
+- 👩‍💻 Exploring **Full Stack Development**, **Open Source**, and **Tech for Good**
+- 🌱 Currently learning **React.js**, **Django (REST API)**, and sharpening my **DSA skills** in C++
+- 🤝 Looking to collaborate on exciting **web projects**, **hackathons**, and **open source contributions**
+- 😄 Pronouns: **She/Her**
+- ⚡ Fun Fact: I turn boring syllabus into **story-based learning games** to keep myself excited and motivated 🎮✨
 
-<!---
-Priyankagaikwad2004/Priyankagaikwad2004 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+---
+
+### 📫 Let’s Connect
+
+- [LinkedIn](https://www.linkedin.com/in/gaikwad-priyanka/)  
+- [GitHub Projects](https://github.com/Priyankagaikwad2004)
+
+---
+
+> 💬 *“Code is poetry. Every bug fixed is a story told better.”*
+
+Thanks for visiting! Feel free to reach out or collaborate — I’m always open to learning and building together 🚀
